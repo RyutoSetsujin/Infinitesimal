@@ -1,6 +1,9 @@
-# Infinitesimal - an Infinity-inspired OutFox theme
+# Infinitesimal PLUS - an Infinity-inspired OutFox theme
 
-![logo](https://raw.githubusercontent.com/dj505/PIU-Infinitesimal/master/Graphics/logo%20(doubleres).png)
+![logo](https://raw.githubusercontent.com/RyutoSetsujin/Infinitesimal/master/Graphics/logo%20(doubleres).png)
+
+## About Infinitesimal PLUS
+Iinfinitesimal PLUS is a modification of Infinitesimal by Ryuto Setsujin. This aims to add sorting functions and provide fixes for things like the noteskin list and other things.
 
 ## About Infinitesimal
 This theme aims to be a spiritual successor to Pump It Up Infinity, an uncommon StepMania-based spin-off developed by Team Infinity and licensed by Andamiro. The current goals are to replicate the look and feel of Infinity while sprinkling in new additions and quality of life improvements, utilize original assets when possible and bring high performance + cross-platform support to the table with OutFox.
@@ -44,6 +47,11 @@ Infinitesimal displays randomly selected wallpapers during the profile saving sc
 ## Additional Resources
 If you're looking for assets such as more noteskins or folder icons from StepP1, you can grab them [here](https://drive.google.com/drive/folders/1pO9rbaPUwTTDFuEo_4tX8S1BEwmfukeF?usp=sharing). Keep in mind these are independent from the theme and are only here for accessibility purposes to newcomers.
 
+## To-Do List
+* Add a visual style change option, allowing the player to switch between the classic Infinitesimal style and the new PLUS style.
+* Fix noteskin list.
+* Add sorting.
+
 ## Current Limitations and Issues
 The theme currently has a few limitations that are beyond our reach. Here is a list of known limitations and issues:
 * Difficulty balls are out of order due to the lack of level sorting;
@@ -56,6 +64,7 @@ Hopefully all of these should be gone soon with future Project OutFox developmen
 
 ## Special thanks
 This theme wouldn't be here if it weren't for the help of the following people:
+* dj505 (creating the original theme in the first place)
 * JoseVarelaP (loads of code optimization and refactoring, suggestions and development assistance)
 * Luizsan (creator of PIU Delta / member of Team Infinity and SSC, many notes and examples taken from his work)
 * Jousway (development assistance)
